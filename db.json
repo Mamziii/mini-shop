@@ -1,0 +1,103 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "هدست سفید",
+      "price": 200000,
+      "img": "./images/pic (1).png"
+    },
+    {
+      "id": "2",
+      "title": "ایرپاد",
+      "price": 300000,
+      "img": "./images/pic (2).png"
+    },
+    {
+      "id": "3",
+      "title": "هندزفیری",
+      "price": 400000,
+      "img": "./images/pic (3).png"
+    },
+    {
+      "id": "4",
+      "title": "کفش مشکی",
+      "price": 500000,
+      "img": "./images/pic (4).png"
+    }
+  ],
+  "orders": [
+    {
+      "items": [
+        {
+          "title": "ایرپاد",
+          "quantity": 1
+        },
+        {
+          "title": "هدست سفید",
+          "quantity": 1
+        },
+        {
+          "title": "هندزفیری",
+          "quantity": 1
+        },
+        {
+          "title": "کفش مشکی",
+          "quantity": 2
+        }
+      ],
+      "id": 1
+    },
+    {
+      "items": [
+        {
+          "title": "هندزفیری",
+          "quantity": 1
+        },
+        {
+          "title": "مرغ 2",
+          "quantity": 1
+        }
+      ],
+      "id": 2
+    },
+    {
+      "items": [
+        {
+          "title": "کفش مشکی",
+          "quantity": 1
+        },
+        {
+          "title": "هندزفیری",
+          "quantity": 3
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "foods": [
+    {
+      "id": "1",
+      "title": "پیتزا",
+      "price": 100000,
+      "img": "./images/food (1).png"
+    },
+    {
+      "id": "2",
+      "title": "مرغ 1",
+      "price": 200000,
+      "img": "./images/food (2).png"
+    },
+    {
+      "id": "3",
+      "title": "مرغ 2",
+      "price": 300000,
+      "img": "./images/food (3).png"
+    },
+    {
+      "id": "4",
+      "title": "ساندویچ",
+      "price": 400000,
+      "img": "./images/food (4).png"
+    }
+  ]
+}
